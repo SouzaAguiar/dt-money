@@ -1,6 +1,6 @@
 # dt-money Controle de entradas e saidas simples
 
-projetos construido com Reac s
+Projetos construido com Reac s
 
 ## Available Scripts
 
